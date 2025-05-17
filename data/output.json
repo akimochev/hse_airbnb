@@ -1,0 +1,16 @@
+[
+  {
+    "neighbourhood_group": "Brooklyn",
+    "neighbourhood": "Williamsburg",
+    "latitude": 40.7081,
+    "longitude": -73.9571,
+    "room_type": "Entire home/apt",
+    "minimum_nights": 3,
+    "number_of_reviews": 10,
+    "calculated_host_listings_count": 2,
+    "availability_365": 200,
+    "days_since_review": 712,
+    "reviews_per_year": 6.0,
+    "pred_price": 221.6113227124217
+  }
+]

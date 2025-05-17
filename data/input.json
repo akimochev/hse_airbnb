@@ -1,0 +1,16 @@
+[
+  {
+    "host_id": 12345,
+    "neighbourhood_group": "Brooklyn",
+    "neighbourhood": "Williamsburg",
+    "latitude": 40.7081,
+    "longitude": -73.9571,
+    "room_type": "Entire home/apt",
+    "minimum_nights": 3,
+    "number_of_reviews": 10,
+    "last_review": "2023-06-01",
+    "reviews_per_month": 0.5,
+    "calculated_host_listings_count": 2,
+    "availability_365": 200
+  }
+]
